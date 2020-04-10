@@ -1,0 +1,13 @@
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.exe
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.deps.json
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.runtimeconfig.json
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.runtimeconfig.dev.json
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.dll
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\bin\Debug\netcoreapp3.1\Conjuntos_HashSet.pdb
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.csprojAssemblyReference.cache
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.csproj.CoreCompileInputs.cache
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.AssemblyInfoInputs.cache
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.AssemblyInfo.cs
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.dll
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.pdb
+C:\Users\Bruno\Google Drive\Programação\Cursos\C#\Repos\Conjuntos_HashSet\Conjuntos_HashSet\obj\Debug\netcoreapp3.1\Conjuntos_HashSet.genruntimeconfig.cache
